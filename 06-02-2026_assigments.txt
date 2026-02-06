@@ -1,0 +1,52 @@
+1)Write a Java program to read a text file and print its content line by line.
+2)Write a Java program to write user input into a file.
+(If the file already exists, append the data.)
+3)Write a Java program to copy content from one file to another file.
+4)Write a Java program to count:
+    number of lines
+    number of words
+    number of characters
+in a given text file.
+5)Write a Java program to search for a given word in a file and print the line numbers where it appears.
+
+
+1)Write a Java program to demonstrate try–catch–finally.
+  Handle ArithmeticException and ensure the finally block always executes.
+
+2)Write a Java program to handle multiple exceptions using multiple catch blocks.
+(Example: ArithmeticException, ArrayIndexOutOfBoundsException)
+
+3)Write a Java program that throws a user-defined (custom) exception
+when a person’s age is less than 18.
+
+4)Write a Java program using throw and throws.
+Show the difference between them with a real example.
+
+5)Write a Java program using try-with-resources
+to read data from a file and automatically close the resource.
+
+
+1)Write a Java program to store employee names in an ArrayList and display them using:
+    a)for-each loop
+    b)Iterator
+
+2)Write a Java program to remove duplicate elements from an ArrayList.
+3)Write a Java program to sort a List<Integer>
+    a)using Collections.sort()
+    b)using Java 8 Streams.
+
+4)Write a Java program to demonstrate the difference between HashSet, LinkedHashSet, and TreeSet.
+
+5)Write a Java program to implement a simple queue using Queue interface
+(LinkedList implementation).
+
+6)Write a Java program to store student IDs and names in a HashMap
+and display all entries.
+
+7)Write a Java program to count the frequency of each word in a given string using HashMap.
+
+8)Write a Java program to sort a Map by keys and by values.
+
+9)Write a Java program to find the first non-repeated character in a string using LinkedHashMap.
+
+10)Write a Java program to demonstrate the difference between HashMap, LinkedHashMap, and TreeMap.
